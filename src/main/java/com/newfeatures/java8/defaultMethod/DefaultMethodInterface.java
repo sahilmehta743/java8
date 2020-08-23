@@ -1,4 +1,4 @@
-package com.example.practice.defaultMethod;
+package com.newfeatures.java8.defaultMethod;
 
 public interface DefaultMethodInterface {
     default void display() {

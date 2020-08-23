@@ -1,4 +1,4 @@
-package com.example.practice.lambdaExample;
+package com.newfeatures.java8.lambdaExample;
 
 public class InnerClassVsLambda {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.practice.functionalinterface;
+package com.newfeatures.java8.functionalinterface;
 
 public class ImplementRunnable {
 

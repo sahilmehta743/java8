@@ -1,4 +1,4 @@
-package com.example.practice.predicate;
+package com.newfeatures.java8.predicate;
 
 import java.util.Scanner;
 import java.util.function.Predicate;
