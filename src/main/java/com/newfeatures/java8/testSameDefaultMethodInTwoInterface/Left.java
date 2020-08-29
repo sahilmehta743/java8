@@ -1,4 +1,4 @@
-package com.newfeatures.java8.TestSameDefaultMethodInTwoInterface;
+package com.newfeatures.java8.testSameDefaultMethodInTwoInterface;
 
 public interface Left {
     default void m1(){

@@ -1,4 +1,4 @@
-package com.newfeatures.java8.TestSameDefaultMethodInTwoInterface;
+package com.newfeatures.java8.testSameDefaultMethodInTwoInterface;
 
 public class TestDifferentInterfaceHavingSameMethod implements Left, Right {
 
